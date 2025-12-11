@@ -1,6 +1,6 @@
 # 📚 Database Projects – SQL & NoSQL
 
-Bienvenido/a a mi repositorio de proyectos de bases de datos, donde practico y aplico habilidades en **SQL** y **NoSQL** mediante proyectos prácticos y  documentados.
+Bienvenido/a a mi repositorio de proyectos de bases de datos, donde practico y aplico habilidades en **SQL** y **NoSQL** mediante proyectos prácticos y bien documentados.
 
 ---
 
@@ -9,7 +9,7 @@ Bienvenido/a a mi repositorio de proyectos de bases de datos, donde practico y a
 | Carpeta | Descripción |
 |---------|-------------|
 | **SQL/** | Proyectos con bases de datos relacionales (MySQL, PostgreSQL, SQLite). |
-| **NoSQL/** | Proyectos con bases de datos NoSQL (MongoDB, Redis, NEO4G.). |
+| **NoSQL/** | Proyectos con bases de datos NoSQL (MongoDB, Redis, etc.). |
 | **Data/** | Datasets y archivos necesarios para los proyectos. |
 | **README.md** | Documentación general del repositorio. |
 
