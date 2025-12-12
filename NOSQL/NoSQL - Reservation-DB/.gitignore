@@ -1,0 +1,31 @@
+# Archivos de entorno (no subir credenciales)
+.env
+.env.*
+.env.example
+
+# Checkpoints de Jupyter
+**/.ipynb_checkpoints
+
+#Trash de notebooks
+.Trash-1000
+
+# Entornos virtuales de Python
+venv/
+.venv/
+ENV/
+env/
+
+# Archivos compilados de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+*.log
+
+# Configuración de VS Code
+.vscode/
+
+# Fuentes
+fuentes/
